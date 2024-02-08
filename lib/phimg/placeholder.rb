@@ -28,7 +28,7 @@ class Placeholder
   end
 end
 
-# 使用例
-placeholder = Placeholder.new(width: 300, height: 200, text: '012345678901234567890123456789')
-image = placeholder.to_png
-image.write('placeholder.png')
+# # 使用例
+# placeholder = Placeholder.new(width: 300, height: 200, text: '012345678901234567890123456789')
+# image = placeholder.to_png
+# image.write('placeholder.png')
